@@ -1,0 +1,29 @@
+.loginPage {
+    background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)), url("https://eezee.sg/blog/wp-content/uploads/2018/06/Artboard-3@3x.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.loginForm {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+}
+
+ul li:hover {
+    background-color: rgba(128, 128, 128, 0.415);
+    border-radius: 4px;
+}
+
+.employee_image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.emp_det_image {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
